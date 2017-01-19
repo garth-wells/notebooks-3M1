@@ -1,5 +1,9 @@
 # Jupyter notebooks in support for the course 3M1
 
+These notebooks are in support of the linear algebra section of the
+course 3M1: Mathematical Methods at the Department of Engineering,
+University of Cambridge.
+
 
 # Viewing and running
 
