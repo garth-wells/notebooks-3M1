@@ -7,10 +7,10 @@ University of Cambridge.
 
 # Viewing and running
 
-Copies of these notebooks are posted to the Microsoft Azure cloud
-notebook service:
+Copies of these notebooks are posted to the Microsoft Azure notebook
+service:
 
-https://notebooks.azure.com/library/CUED-3M1
+https://notebooks.azure.com/garth-wells/projects/CUED-3M1
 
 The notebooks can be viewed, modified and executed on the Azure
 service.
@@ -42,7 +42,7 @@ Attribution-ShareAlike 4.0 International Public License
 All computer code is released under the MIT license.
 
 The MIT License (MIT)
-Copyright (c) 2016 Garth N. Wells
+Copyright (c) 2016-2020 Garth N. Wells
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
