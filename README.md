@@ -5,18 +5,11 @@ course 3M1: Mathematical Methods at the Department of Engineering,
 University of Cambridge.
 
 
-# Viewing and running
+## Viewing and running
 
-Copies of these notebooks are posted to the Microsoft Azure notebook
-service:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garth-wells/notebooks-3M1)
 
-https://notebooks.azure.com/garth-wells/projects/CUED-3M1
-
-The notebooks can be viewed, modified and executed on the Azure
-service.
-
-*Note for Cambridge users: You can log into the Azure notebook service
- using your CRSid/Raven credential.*
+Cambridge users should use their University credentials (CRSid) to log in.
 
 
 ## Feedback and corrections
